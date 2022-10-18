@@ -1,0 +1,2 @@
+This repository is built to save my work on my thesis, called Resnet for classification of leukocyte:application and optimization,published by IEEE.
+I use resnet to do a four-class classfication for images of white blood cell by tensorflow. To improve the result, my team tried data argumentation, mask generation and ensemble learning.
